@@ -42,8 +42,13 @@ ___
 ----
 ## 🛑 🚧 More information in construction 🛑 🚧
 ### I am currently working on exercises to add to my repository
-
+<!--
 ![Linux](https://sourceforge.net/images/icon_linux.gif)
+
+-->
+
+
+
 
 
 
